@@ -20,6 +20,7 @@ body{
 .header-link{
   font-size: 18px;
   color: #E5E7EB;
+  margin: 10px;
 }
 
 .navbar{
@@ -199,4 +200,12 @@ h4{
  border-radius: 18px;
 }
 
+.footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1F2937;
+  color: white;
+  height: 75px;
+}
 
